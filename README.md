@@ -20,22 +20,15 @@ Esta herramienta está diseñada para que puedas administrar tus ingresos y gast
 
 ## Capturas de Pantalla 📷📷
 
-- Página principal.
+- Vista pantalla móvil
 
-![Inicio-Móvil](assets/img/capture-2.png)
+![Inicio-Móvil](css/capture%20(2).png)
 
 
-- Sección About me y contacto
+- Vista pantalla Desktop
 
-![Creditos](assets/img/capture-4.png)
+![Inicio-Desktop](css/capture-gastos.png)
 
-- Sección Blog y recursos
-
-![Creditos](assets/img/capture-5.png)
-
-- Sección About Me (Pantalla Desktop)
-
-![Creditos](assets/img/capture-7.png)
 
 ## 🎯 Características principales
 
