@@ -1,10 +1,21 @@
-# 🌐 Portafolio Web - Andres Felipe Cubillos Ospina🎵
+# 💰 Controlador de Presupuesto Personal
 
-¡Bienvenido a mi portafolio interactivo!  
-Aquí comparto los proyectos más representativos que he desarrollado como **Frontend Developer**, fusionando creatividad, rendimiento y buenas prácticas de desarrollo web.
+Bienvenido a la aplicación que te ayuda a controlar tu presupuesto de manera sencilla y efectiva.
+Esta herramienta está diseñada para que puedas administrar tus ingresos y gastos, y tomar mejores decisiones financieras en tu día a día.
 
-Explora una interfaz moderna, animada y responsive que refleja mis habilidades tanto técnicas como visuales.  
-Además del desarrollo, también incluyo una sección sobre mi experiencia como bartender profesional.
+## Que hace esta aplicaión?
+
+- Permite registrar tus ingresos y gastos con descripciones y valores.
+
+- Cambia y muestra los montos en tres tipos de monedas diferentes: pesos, dólares y euros.
+
+- Obtiene el tipo de cambio real para convertir pesos a dólares y euros automáticamente.
+
+- Guarda todos tus datos localmente para que tu información sea persistente entre sesiones.
+
+- Presenta un resumen claro de tu presupuesto actual y el balance disponible.
+
+- Interfaz simple, intuitiva y responsive para usarla desde cualquier dispositivo.
 
 
 ## Capturas de Pantalla 📷📷
@@ -26,31 +37,29 @@ Además del desarrollo, también incluyo una sección sobre mi experiencia como 
 
 ![Creditos](assets/img/capture-7.png)
 
-## 🚀 Características
+## 🎯 Características principales
 
-- Navegación clara y organizada por secciones.
-- Diseño responsive para todo tipo de pantallas.
-- Animaciones suaves con AOS (Animate On Scroll).
-- Integración de iconos con FontAwesome.
-- Proyectos interactivos con enlaces a demos y repositorios.
-- Sección “Random Facts” con un toque personal y auténtico.
+- Registro dinámico de ingresos y egresos.
+
+- Conversión automática y en tiempo real entre pesos, dólares y euros según la tasa de cambio actual.
+
+- Almacenamiento local que asegura que tus datos no se pierdan al cerrar o recargar la aplicación.
+
+- Visualización en tiempo real del saldo disponible.
+
+- Interfaz amigable hecha con JavaScript, HTML y CSS.
 
 
 ## 🛠 Tecnologías Utilizadas
 
 - **HTML5**
 - **CSS3**
-- **JavaScript** (Vanilla y React)
-- **Figma** para prototipos y diseño UI
-- **AOS.js** para animaciones en scroll
+- **JavaScript**
 
 
 ### 🧠 Inspiración
 
-Este portafolio fue **inspirado y adaptado** a partir del increíble diseño de portafolio de  
-[© Adham Dannaway](https://www.adhamdannaway.com/) — un referente en diseño de interfaces limpias y profesionales.
-
-> Todo el código, contenido y personalización fueron creados por mí, pero reconozco y agradezco la inspiración visual del trabajo original de [Adham Dannaway](https://www.adhamdannaway.com/).
+Este portafolio fue **hecho** con la ayuda del curso de Javascript de Udemy, le hice mejoras en persistencia con LocalStorage y ademas lo hice resposive, agregue tres tipos de monedas mas.
 
 
 ## Licencia
